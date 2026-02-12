@@ -1,6 +1,6 @@
-# Finora
+# BudgetNest
 
-Finora is a full-stack finance tracking application built with the MERN stack. It helps users track expenses, categorize spending, and visualize trends through charts with secure authentication.
+BudgetNest is a smart finance tracking platform that helps users organize expenses, monitor spending categories, and analyze financial behavior through dynamic charts. Developed with the MERN stack, it combines secure authentication, RESTful APIs, and a responsive Material-UI design for a seamless budgeting experience.
 
 ## Features
 
@@ -9,27 +9,6 @@ Finora is a full-stack finance tracking application built with the MERN stack. I
 * Expense visualization with charts
 * Responsive UI using Material-UI
 * REST API with Express and MongoDB
-
-## Tech Stack
-
-**Frontend**
-
-* React (Vite)
-* Material-UI
-* React Router DOM
-
-**Backend**
-
-* Node.js
-* Express.js
-* MongoDB with Mongoose
-
-## Project Structure
-
-```
-backend/    # API, database, auth
-frontend/   # React client
-```
 
 ## Getting Started
 
@@ -48,10 +27,4 @@ npm run dev
 ```
 
 App runs at `http://localhost:5173`.
-
-## Usage
-
-* Create an account and log in
-* Add expenses with categories
-* View spending insights on the dashboard
 
